@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonahcr
+- 👋 Hi, I’m Jonah
 - 👨‍💻 I work for @myself @thecoolagency 
 - 👀 I’m interested in any type of web development
 - 🌱 I’m currently learning more about node
