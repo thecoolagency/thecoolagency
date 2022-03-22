@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jonahcr
-- 👨‍💻 I work at https://cyber-romance.com/ 
+- 👨‍💻 I work for @myself @thecoolagency 
 - 👀 I’m interested in any type of web development
 - 🌱 I’m currently learning more about node
 - 💞️ I’m looking to collaborate on anything cool
-- 📫 How to reach me jonah@cyber-romance.com  
+- 📫 How to reach me jonah@tca.ninja  
 - 👨‍💻 My personal portfolio https://www.jonahlmadeya.com/
 - I also love 🧀 and 🍷 
