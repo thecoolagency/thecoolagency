@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonah
-- 👨‍💻 I work for @myself @thecoolagency 
+- 👨‍💻 I work for @myself @thecoolagency & @cyber-romance
 - 👀 I’m interested in any type of web development
-- 🌱 I’m currently learning more about node
+- 🌱 I’m currently learning more about web3
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me jonah@tca.ninja  
 - 👨‍💻 My personal portfolio https://www.jonahlmadeya.com/
