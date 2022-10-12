@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonah
-- 👨‍💻 I work for @myself @thecoolagency & @cyber-romance
+- 👨‍💻 I work for @myself @thecoolagency
 - 👀 I’m interested in any type of web development
 - 🌱 I’m currently learning more about web3
 - 💞️ I’m looking to collaborate on anything cool
