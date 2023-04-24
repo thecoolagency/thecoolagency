@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Jonah
-- 👨‍💻 I work for @tr4ueckclassic @myself @thecoolagency
-- 👀 I’m interested in any type of web development
-- 🌱 I’m currently learning more about web3
-- 💞️ I’m looking to collaborate on anything cool
+- 👨‍💻 I work for @trueclassic and @thecoolagency
+- 👀 I’m interested in all type of web development
+- 🌱 I’m currently learning more about web3 cool
 - 📫 How to reach me jonah@tca.ninja  
 - 👨‍💻 My personal portfolio https://www.jonahlmadeya.com/
-- I also love 🧀 and 🍷 
