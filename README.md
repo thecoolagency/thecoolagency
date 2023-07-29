@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jonah
-- 👨‍💻 I work for @trueclassic and @thecoolagency
-- 👀 I’m interested in all type of web development
-- 🌱 I’m currently learning more about web3 cool
-- 📫 How to reach me jonah@tca.ninja  
+- 👨‍💻 I work as Director of Software Development At [True Classic](https://www.trueclassictees.com/)
+- 👀 I’m interested in all type of software/web development
+- 📫 How to reach me jonah@tca.ninja
 - 👨‍💻 My personal portfolio https://www.jonahlmadeya.com/
