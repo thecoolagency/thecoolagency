@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonah
 - 👨‍💻 I was as Director of Software Development At [True Classic](https://www.trueclassictees.com/)
-- 👨‍💻 I run [The Cool Angecy LLC](https://www.thecoolagency.com/)
+- 👨‍💻 I run [The Cool Agency LLC](https://www.thecoolagency.com/)
 - 👀 I’m interested in all type of software/web development
 - 📫 How to reach me jonah@tca.ninja
 
