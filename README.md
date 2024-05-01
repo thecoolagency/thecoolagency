@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonah
-- 👨‍💻 I was as Director of Software Development At [True Classic](https://www.trueclassictees.com/)
+- 👨‍💻 I was Director of Software Development At [True Classic](https://www.trueclassictees.com/)
 - 😎 I run [The Cool Agency LLC](https://www.thecoolagency.com/)
   
 ![HasbullaBossGIF](https://github.com/thecoolagency/thecoolagency/assets/8910410/5ac07c97-ed82-4ee4-996c-1d7142b48f41)
